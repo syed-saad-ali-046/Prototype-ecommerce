@@ -8,21 +8,15 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-        Our Merstack eCommerce project is a result of the collaborative efforts of group members Syed Saad Ali, Muhammad Moiz, Faiz Ahmed, and Faraz Niaz. This project was developed as part of our Web Engineering Lab project.
+        🛒 Code Virtuoso Property: All Rights Reserved<br></br>
 
-The Merstack eCommerce project is built using a modern technology stack, incorporating the MERN (MongoDB, Express.js, React, Node.js) stack. It aims to provide a robust and scalable solution for online shopping.
+        🚀Welcome to Code Virtuoso's e-commerce website! 🌟 We're thrilled to showcase our expertise in web development and design through this platform. Before you explore further, we want to make it clear that this website is the intellectual property of Code Virtuoso, and all rights are reserved. 💻🔒
 
-With Merstack eCommerce, we have implemented various features to enhance the user experience. This includes a user-friendly interface, seamless navigation, secure authentication and authorization mechanisms, intuitive product search and filtering options, as well as a responsive design that ensures optimal performance on different devices.
+📚 This website is intended for demonstration and educational purposes only. It serves as a representation of our capabilities in creating intuitive and visually appealing e-commerce solutions for our clients. While you're welcome to browse through the various features and functionalities, please note that this website is not for any selling or buying purposes. 🚫💰
 
-Our team has put in considerable effort to ensure the project's success. We have incorporated best practices in software development, such as code modularity, scalability, and maintainability. Additionally, we have followed an agile development approach, regularly collaborating and iterating on the project to deliver a high-quality end product.
+🔐 Rest assured, we've taken the necessary measures to protect the integrity of this website and ensure that it complies with copyright laws and regulations. Any unauthorized use, reproduction, or distribution of the content, images, or code is strictly prohibited without prior written consent from Code Virtuoso. 🚫📝
 
-Merstack eCommerce is an ambitious undertaking, showcasing our skills and knowledge in web development. We are proud of our accomplishments and excited about the potential it holds for the future.
-
-
-
-
-
-
+Thank you for your understanding and cooperation. If you have any questions or would like to learn more about our services, feel free to reach out to us. Together, let's unlock the potential of your digital presence! 💼✨
 
         </p>
 
